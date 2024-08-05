@@ -1,7 +1,14 @@
+**INTERFAZ GRAFICA PARA ARBOLES BINARIOS**  
+En este repositorio se encuentra un programa que muestra el recorrido de un arbol binario simple, el recorrido puede ser inOrden, preOrden y postOrden.  
 
-
-
-Ejecucion del codigo Interfaz grafica
+**Realizado por:**  
+- Alexis Roman
+- Daniel Sanchez
+  
+**Ciclo:**  
+Segundo  
+  
+**Ejecucion del codigo Interfaz grafica:**
 
 ![image](https://github.com/user-attachments/assets/a8e85278-306a-453d-b194-e404f7a2e9fa)
 
