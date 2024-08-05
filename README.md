@@ -8,6 +8,9 @@ En este repositorio se encuentra un programa que muestra el recorrido de un arbo
 **Ciclo:**  
 Segundo  
   
+**Diagrama de clases:**  
+![estructuraDeDatos](https://github.com/user-attachments/assets/dc36ace2-5c2e-4129-bb3a-7861dadb7be8)
+  
 **Ejecucion del codigo Interfaz grafica:**
 
 ![image](https://github.com/user-attachments/assets/a8e85278-306a-453d-b194-e404f7a2e9fa)
